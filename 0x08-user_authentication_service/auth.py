@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """ password in database Auth module
 """
 from db import DB
